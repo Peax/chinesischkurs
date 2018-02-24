@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>SWR2 Chinesisch für Anfänger</title>
+        <link>http://www.swr2.de/china</link>
+        <description>Vielleicht wollen auch Sie dabei sein, wenn am 08.08.2008 die Olympischen Spiele in Peking eröffnet werden. Englisch allein reicht jedoch nicht aus, um sich in China verständigen zu können. SWR2 bietet daher im Rahmen seines China-Schwerpunkts den Sprachkurs 'Chinesisch für Anfänger' an. Nach 70 Folgen werden Sie fragen können, wo sie eine Toilette finden oder wo sie ein Bier kaufen können und was es kostet - Sätze, die den Alltag sehr erleichtern. Und ganz sicher bringt es ihnen viel Sympathie und Offenheit ein, wenn sie bei ihrer nächsten China-Reise die Menschen in ihrer Muttersprache ansprechen können.</description>
+        <copyright>SWR</copyright>
+        <image>
+            <url>https://raw.githubusercontent.com/Peax/chinesischkurs/feed/res/media/cover_image.jpg</url>
+            <title></title>
+            <link>http://www.swr2.de/china</link>
+        </image>
+        <pubDate>Mon, 01 Oct 2007 07:20:00 +0200</pubDate>
+        <language>de</language>
+        <atom:link href="http://www1.swr.de/podcast/xml/swr2/chinesischkurs.xml" rel="self" type="application/rss+xml" />
+        <itunes:image href="https://raw.githubusercontent.com/Peax/chinesischkurs/feed/res/media/cover_image.jpg" />
+        <itunes:owner>
+            <itunes:name>SWR2 Chinesisch für Anfänger</itunes:name>
+            <itunes:email>info@swr2.de</itunes:email>
+        </itunes:owner>
+        <itunes:category text="Language Courses" />
+        <itunes:category text="Education" />
+        <itunes:author>Wolfgang Baus, Mu Gu, Jürgen Hoeren</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:subtitle>Lernen, lernen, nochmals lernen</itunes:subtitle>
+        <item>
+            <title></title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description></description>
+            <pubDate></pubDate>
+            <enclosure url="" length="" type="audio/mpeg" />
+            <itunes:duration></itunes:duration>
+            <link></link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title></title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description></description>
+            <pubDate></pubDate>
+            <enclosure url="" length="" type="audio/mpeg" />
+            <itunes:duration></itunes:duration>
+            <link></link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title></title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description></description>
+            <pubDate></pubDate>
+            <enclosure url="" length="" type="audio/mpeg" />
+            <itunes:duration></itunes:duration>
+            <link></link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title></title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description></description>
+            <pubDate></pubDate>
+            <enclosure url="" length="" type="audio/mpeg" />
+            <itunes:duration></itunes:duration>
+            <link></link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title></title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description></description>
+            <pubDate></pubDate>
+            <enclosure url="" length="" type="audio/mpeg" />
+            <itunes:duration></itunes:duration>
+            <link></link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title></title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description></description>
+            <pubDate></pubDate>
+            <enclosure url="" length="" type="audio/mpeg" />
+            <itunes:duration></itunes:duration>
+            <link></link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title></title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description></description>
+            <pubDate></pubDate>
+            <enclosure url="" length="" type="audio/mpeg" />
+            <itunes:duration></itunes:duration>
+            <link></link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title></title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description></description>
+            <pubDate></pubDate>
+            <enclosure url="" length="" type="audio/mpeg" />
+            <itunes:duration></itunes:duration>
+            <link></link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title></title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description></description>
+            <pubDate></pubDate>
+            <enclosure url="" length="" type="audio/mpeg" />
+            <itunes:duration></itunes:duration>
+            <link></link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title></title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description></description>
+            <pubDate></pubDate>
+            <enclosure url="" length="" type="audio/mpeg" />
+            <itunes:duration></itunes:duration>
+            <link></link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title></title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description></description>
+            <pubDate></pubDate>
+            <enclosure url="" length="" type="audio/mpeg" />
+            <itunes:duration></itunes:duration>
+            <link></link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title></title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description></description>
+            <pubDate></pubDate>
+            <enclosure url="" length="" type="audio/mpeg" />
+            <itunes:duration></itunes:duration>
+            <link></link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title></title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description></description>
+            <pubDate></pubDate>
+            <enclosure url="" length="" type="audio/mpeg" />
+            <itunes:duration></itunes:duration>
+            <link></link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title></title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description></description>
+            <pubDate></pubDate>
+            <enclosure url="" length="" type="audio/mpeg" />
+            <itunes:duration></itunes:duration>
+            <link></link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title></title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description></description>
+            <pubDate></pubDate>
+            <enclosure url="" length="" type="audio/mpeg" />
+            <itunes:duration></itunes:duration>
+            <link></link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title></title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description></description>
+            <pubDate></pubDate>
+            <enclosure url="" length="" type="audio/mpeg" />
+            <itunes:duration></itunes:duration>
+            <link></link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title></title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description></description>
+            <pubDate></pubDate>
+            <enclosure url="" length="" type="audio/mpeg" />
+            <itunes:duration></itunes:duration>
+            <link></link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title></title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description></description>
+            <pubDate></pubDate>
+            <enclosure url="" length="" type="audio/mpeg" />
+            <itunes:duration></itunes:duration>
+            <link></link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title></title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description></description>
+            <pubDate></pubDate>
+            <enclosure url="" length="" type="audio/mpeg" />
+            <itunes:duration></itunes:duration>
+            <link></link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title></title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description></description>
+            <pubDate></pubDate>
+            <enclosure url="" length="" type="audio/mpeg" />
+            <itunes:duration></itunes:duration>
+            <link></link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title></title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description></description>
+            <pubDate></pubDate>
+            <enclosure url="" length="" type="audio/mpeg" />
+            <itunes:duration></itunes:duration>
+            <link></link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title></title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description></description>
+            <pubDate></pubDate>
+            <enclosure url="" length="" type="audio/mpeg" />
+            <itunes:duration></itunes:duration>
+            <link></link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title></title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description></description>
+            <pubDate></pubDate>
+            <enclosure url="" length="" type="audio/mpeg" />
+            <itunes:duration></itunes:duration>
+            <link></link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title></title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description></description>
+            <pubDate></pubDate>
+            <enclosure url="" length="" type="audio/mpeg" />
+            <itunes:duration></itunes:duration>
+            <link></link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title></title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description></description>
+            <pubDate></pubDate>
+            <enclosure url="" length="" type="audio/mpeg" />
+            <itunes:duration></itunes:duration>
+            <link></link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title></title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description></description>
+            <pubDate></pubDate>
+            <enclosure url="" length="" type="audio/mpeg" />
+            <itunes:duration></itunes:duration>
+            <link></link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title></title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description></description>
+            <pubDate></pubDate>
+            <enclosure url="" length="" type="audio/mpeg" />
+            <itunes:duration></itunes:duration>
+            <link></link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title></title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description></description>
+            <pubDate></pubDate>
+            <enclosure url="" length="" type="audio/mpeg" />
+            <itunes:duration></itunes:duration>
+            <link></link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title></title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description></description>
+            <pubDate></pubDate>
+            <enclosure url="" length="" type="audio/mpeg" />
+            <itunes:duration></itunes:duration>
+            <link></link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title></title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description></description>
+            <pubDate></pubDate>
+            <enclosure url="" length="" type="audio/mpeg" />
+            <itunes:duration></itunes:duration>
+            <link></link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 40: Wiederholung - Tage, Monate, Währung</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Heute wiederholen wir die Wochentage, Monatsnamen, die chinesischen Währungseinheiten und Zähleinheiten wie Becher, Flasche, Glas.</description>
+            <pubDate>Tue, 27 Nov 2007 07:20:00 +0100</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-40-wiederholung-tage-monate-waehrung.6444m.mp3" length="1802873" type="audio/mpeg" />
+            <itunes:duration>3:45</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-40-wiederholung-tage-monate-waehrung.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 39: Wiederholung - Begrüßung und Zahlen</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Wir haben jetzt schon gut die Hälfte unseres Kurses hinter uns gebracht. Zeit, ein paar Vokabeln zu wiederholen: Die Begrüßungs- und Abschiedsformeln und die Zahlen von eins bis zwanzig.</description>
+            <pubDate>Mon, 26 Nov 2007 07:20:00 +0100</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-39-wiederholung-begruessung-und-zahlen.6444m.mp3" length="1957934" type="audio/mpeg" />
+            <itunes:duration>4:05</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-39-wiederholung-begruessung-und-zahlen.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 38: Hanyu-Chinesisch</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Ein wichtiger Satz im Chinesischen ist für einen Ausländer die Aussage, dass er kein Chinesisch kann. Diesen Satz lernen wir heute und erfahren dabei noch, dass Beziehungen wohl das Einzige sind, was einem Chinesen verlässlich erscheint.</description>
+            <pubDate>Fri, 23 Nov 2007 07:20:00 +0100</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-38-hanyu-chinesisch.6444m.mp3" length="1839196" type="audio/mpeg" />
+            <itunes:duration>3:50</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-38-hanyu-chinesisch.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 37: Entschuldigung</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Heute geht es um die wichtige Frage, ob der Ansprechpartner Englisch kann. Dabei lernen wir einen weiteren Ausdruck für das deutsche Wort "Entschuldigung".</description>
+            <pubDate>Thu, 22 Nov 2007 07:20:00 +0100</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-37-entschuldigung.6444m.mp3" length="1995718" type="audio/mpeg" />
+            <itunes:duration>4:09</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-37-entschuldigung.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 36: Geldautomat und Internetcafe</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Nach drei Dingen fragen wir heute: einem Taxi, einem Geldautomaten und einem Internetcafe. Dabei lernen wir, dass Internetcafes in China inzwischen zu den Orten gehören, die man unbedingt einmal gesehen haben sollte.</description>
+            <pubDate>Wed, 21 Nov 2007 07:20:00 +0100</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-36-geldautomat-und-internetcafe.6444m.mp3" length="2347667" type="audio/mpeg" />
+            <itunes:duration>4:53</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-36-geldautomat-und-internetcafe.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 35: Toilette</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Heute geht es um eine weitere wichtige Frage für Chinareisende: die Frage, ob und wo es eine Toilette gibt.</description>
+            <pubDate>Tue, 20 Nov 2007 07:20:00 +0100</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-35-toilette.6444m.mp3" length="1850258" type="audio/mpeg" />
+            <itunes:duration>3:51</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-35-toilette.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 34: Höflichkeit</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Heute lernen wir, wie wir um eine Auskunft bitten. Dabei erfahren wir weitere interessante Dinge über die unterschiedlichen Verhaltensweisen von Chinesen und Deutschen als Kunden in Geschäften oder Gaststätten.</description>
+            <pubDate>Mon, 19 Nov 2007 07:20:00 +0100</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-34-hoeflichkeit.6444m.mp3" length="2076589" type="audio/mpeg" />
+            <itunes:duration>4:19</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-34-hoeflichkeit.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 33: Bedienung</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Heute vertiefen wir den Umgang mit den Preisen weiter. Und da wir Preisangaben auch in Lokalen benötigen, lernen wir gleich, wie wir die Bedienung in einer Gaststätte rufen.</description>
+            <pubDate>Fri, 16 Nov 2007 07:20:00 +0100</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-33-bedienung.6444m.mp3" length="1902296" type="audio/mpeg" />
+            <itunes:duration>3:58</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-33-bedienung.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 32: Mao</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Während wir heute noch einmal die drei Währungseinheiten Kuai, Mao und Fen vertiefen, lernen wir, was das Wort "Mao" für Bedeutungen hat. Und endlich beantworten wir auch die Frage, was ein Bier kostet.</description>
+            <pubDate>Thu, 15 Nov 2007 07:20:00 +0100</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-32-mao.6444m.mp3" length="1592367" type="audio/mpeg" />
+            <itunes:duration>3:19</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-32-mao.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 31: Währungseinheiten</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Heute vertiefen wir die chinesischen Währungseinheiten und erfahren, warum ein Schein, der umgerechnet zehn Euro entspricht, in China der größte Geldschein ist.</description>
+            <pubDate>Wed, 14 Nov 2007 07:20:00 +0100</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-31-waehrungseinheiten.6444m.mp3" length="1568362" type="audio/mpeg" />
+            <itunes:duration>3:16</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-31-waehrungseinheiten.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 30: Der Nationalschnaps Maotai</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Heute erfahren wir, warum der Nationalschnaps Maotai so teuer ist. Das ist genau der richtige Anlass, um auch die chinesischen Währungseinheiten zu lernen.</description>
+            <pubDate>Tue, 13 Nov 2007 07:20:00 +0100</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-30-der-nationalschnaps-maotai.6444m.mp3" length="1609965" type="audio/mpeg" />
+            <itunes:duration>3:21</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-30-der-nationalschnaps-maotai.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 29: Preisfrage</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Heute lernen wir, wie wir nach dem Preis von einem Glas Bier fragen. Und nebenbei erfahren wir, dass der Preis des chinesischen Renommierschnaps Maotai ein ganz besonderer sein kann.</description>
+            <pubDate>Mon, 12 Nov 2007 07:20:00 +0100</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-29-preisfrage.6444m.mp3" length="1770012" type="audio/mpeg" />
+            <itunes:duration>3:41</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-29-preisfrage.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 28: Geld</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Heute lernen wir, Zahlen in einem alltäglichen Zusammenhang zu gebrauchen - in Verbindung mit Geld. Dabei erfahren wir, dass inzwischen auch in China Geld eine immer größere Bedeutung hat.</description>
+            <pubDate>Fri, 09 Nov 2007 07:20:00 +0100</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-28-geld.6444m.mp3" length="1666139" type="audio/mpeg" />
+            <itunes:duration>3:28</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-28-geld.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 27: Monatsnamen</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Heute lernen wir weiter die Wochentage und erfahren dann, dass auch die Monatsnamen im Chinesischen einem ganz einfachen Prinzip folgen.</description>
+            <pubDate>Thu, 08 Nov 2007 07:20:00 +0100</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-27-monatsnamen.6444m.mp3" length="2269895" type="audio/mpeg" />
+            <itunes:duration>4:44</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-27-monatsnamen.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 26: Wochentage</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Heute lernen wir, dass Zahlen offenbar immer zu schnell gesprochen werden - ob im Chinesischen oder im Deutschen. Und wir erfahren, dass wir fast schon die Wochentage im Chinesischen kennen, nachdem wir zählen gelernt haben.</description>
+            <pubDate>Wed, 07 Nov 2007 07:20:00 +0100</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-26-wochentage-podcast.6444m.mp3" length="1565232" type="audio/mpeg" />
+            <itunes:duration>3:16</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-26-wochentage-podcast.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 25: Zahlenspiele</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Dass chinesische Zahlen nicht nur durch Rechnereien zustande kommen, sondern auch Zungenbrecher sein können, lernen wir heute. Außerdem erfahren wir, wofür bestimmte Zahlen in Chatrooms verwendet werden.</description>
+            <pubDate>Tue, 06 Nov 2007 07:20:00 +0100</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-25-zahlenspiele.6444m.mp3" length="1345787" type="audio/mpeg" />
+            <itunes:duration>2:48</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-25-zahlenspiele.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 24: Glückszahl acht</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Heute erfahren wir, warum es so bedeutsam ist, dass die olympischen Spiele in China am 8.8.2008 beginnen. Und wir lernen bis zehn zu zählen. Danach ist es ganz einfach, bis zwanzig weiter zu zählen.</description>
+            <pubDate>Mon, 05 Nov 2007 07:20:00 +0100</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-24-glueckszahl-acht.6444m.mp3" length="1836268" type="audio/mpeg" />
+            <itunes:duration>3:49</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-24-glueckszahl-acht.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 23: Unglückszahl vier</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Heute zählen wir weiter bis acht und lernen dabei, warum die vier im Chinesischen eine Unglückszahl ist.</description>
+            <pubDate>Fri, 02 Nov 2007 07:20:00 +0100</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-23-unglueckszahl-vier.6444m.mp3" length="1388220" type="audio/mpeg" />
+            <itunes:duration>2:53</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-23-unglueckszahl-vier.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 22: Bis drei zählen</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Heute erfahren wir, was für eine Bedeutung die so genannten "Zähleinheitswörter" im Chinesischen haben. Dann lernen wir endlich, bis drei zu zählen.</description>
+            <pubDate>Wed, 31 Oct 2007 07:20:00 +0100</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-22-bis-drei-zaehlen.6444m.mp3" length="1773992" type="audio/mpeg" />
+            <itunes:duration>3:42</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-22-bis-drei-zaehlen.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 21: Kinder</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Eine Frage, die einem in China häufig gestellt wird, ist die, ob man Kinder hat, und wenn ja, wie viele.</description>
+            <pubDate>Tue, 30 Oct 2007 07:20:00 +0100</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-21-kinder.6444m.mp3" length="1541380" type="audio/mpeg" />
+            <itunes:duration>3:13</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-21-kinder.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 20: Jasmintee</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Heute geht es noch einmal um Tee. Wir lernen, warum Jasmintee bei Südchinesen nicht beliebt ist und erfahren von der Besonderheit des dritten Aufgusses.</description>
+            <pubDate>Mon, 29 Oct 2007 07:20:00 +0100</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-20-jasmintee.6444m.mp3" length="1515055" type="audio/mpeg" />
+            <itunes:duration>3:09</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-20-jasmintee.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 19: Tee</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Auch wenn Chinesen inzwischen oft Kaffee zum Frühstück trinken, bleibt der Tee das beliebteste Getränk in China. Doch welchen Tee sollte man in China trinken?</description>
+            <pubDate>Fri, 26 Oct 2007 07:20:00 +0200</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-19-tee.6444m.mp3" length="1889952" type="audio/mpeg" />
+            <itunes:duration>3:56</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-19-tee.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 18: Bier, Tee und abgekochtes Wasser</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>In dieser Folge lernen wir, wie man danach fragt, ob es dieses oder jenes Getränkt gibt - Bier, Tee oder abgekochtes Wasser. Zu welchen Anlässen trinkt man eigentlich Alkohol in China?</description>
+            <pubDate>Thu, 25 Oct 2007 07:20:00 +0200</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-18-bier-tee-und-abgekochtes-wasser.6444m.mp3" length="2383829" type="audio/mpeg" />
+            <itunes:duration>4:58</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-18-bier-tee-und-abgekochtes-wasser.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 17: Haben oder Nicht-Haben</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Heute geht es um das Verb "haben". Wie fragt man jemanden danach, ob er Kinder hat, und wie bejaht oder verneint er dies? Und - ganz wichtig - was heißt: "Gibt es Bier?"</description>
+            <pubDate>Wed, 24 Oct 2007 07:20:00 +0200</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-17-haben-oder-nicht-haben.6444m.mp3" length="2501464" type="audio/mpeg" />
+            <itunes:duration>5:13</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-17-haben-oder-nicht-haben.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 16: Er oder Sie?</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Lehrer, Lehrerin oder Lehrerinnen - im Chinesischen macht dies keinen Unterschied. Wie werden dann die deutschen Personalpronomina "er" und "sie" übersetzt?</description>
+            <pubDate>Tue, 23 Oct 2007 07:20:00 +0200</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-16-er-oder-sie.6444m.mp3" length="2015985" type="audio/mpeg" />
+            <itunes:duration>4:12</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-16-er-oder-sie.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 15: Von Heldenländern und Schönländern</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Heute erfahren wir die Namen weiterer Länder im Chinesischen. Nicht alle haben so besonderen Bedeutungen wie das "Heldenland" und das "Schönland".</description>
+            <pubDate>Mon, 22 Oct 2007 07:20:00 +0200</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-15-von-heldenlaendern-und-schoenlaendern.6444m.mp3" length="1647807" type="audio/mpeg" />
+            <itunes:duration>3:26</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-15-von-heldenlaendern-und-schoenlaendern.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 14: Reich der Mitte</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Heute geht es um Nationalitäten, vor allem um China und England. Was bedeuten die chinesischen Namen dieser Länder?</description>
+            <pubDate>Fri, 19 Oct 2007 07:20:00 +0200</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-14-reich-der-mitte.6444m.mp3" length="1847762" type="audio/mpeg" />
+            <itunes:duration>3:51</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-14-reich-der-mitte.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 13: Deutschland = "Tugendland"?</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Wenn Amerikaner "Schönländer" sind, was bedeutet dann der chinesische Name für die "Deutschen"? Und welche Vorurteile haben Chinesen gegenüber den Deutschen?</description>
+            <pubDate>Thu, 18 Oct 2007 07:20:00 +0200</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-13-deutschland-tugendland.6444m.mp3" length="1622711" type="audio/mpeg" />
+            <itunes:duration>3:23</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-13-deutschland-tugendland.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 12: "Ja" oder "Nein"?</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Wie antwortet man auf Chinesisch mit "Ja" oder "Nein" auf eine Frage? Und warum sind Amerikaner in China "Schönländer"?</description>
+            <pubDate>Wed, 17 Oct 2007 07:20:00 +0200</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-12-ja-oder-nein.6444m.mp3" length="1754762" type="audio/mpeg" />
+            <itunes:duration>3:39</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-12-ja-oder-nein.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 11: Einfache Fragen</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Dass im Chinesischen das Stellen von Fragen denkbar einfach ist - vor allem im Vergleich mit der deutschen Sprache - wird jeden Chinesischschüler erfreuen. Doch wie bejaht man eine Frage?</description>
+            <pubDate>Tue, 16 Oct 2007 07:20:00 +0200</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-11-einfache-fragen.6444m.mp3" length="1629378" type="audio/mpeg" />
+            <itunes:duration>3:24</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/chinesischkurs-folge-11-einfache-fragen.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 10: Erster einfacher Satz und die Personalpronomina</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Heute lernen wir den ersten vollständigen Satz und fragen uns dabei, ob die Konjugation von Verben eigentlich notwendig ist. Doch auch im Chinesischen unverzichtbar sind die Personalpronomina.</description>
+            <pubDate>Mon, 15 Oct 2007 07:20:00 +0200</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/folge-10-erster-einfacher-satz-und-die-personalpronomina.6444m.mp3" length="1910102" type="audio/mpeg" />
+            <itunes:duration>3:59</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/folge-10-erster-einfacher-satz-und-die-personalpronomina.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 9: Exkurs in die Geschichte: Chinas Hauptstädte</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Dass China im Laufe seiner mehrtausendjährigen Geschichte viele unterschiedliche Hauptstädte hatte, ist nicht verwunderlich. Die wechselnde Benennung der Städte durch die Geschichte kann dagegen für Verwirrungen sorgen.</description>
+            <pubDate>Fri, 12 Oct 2007 07:20:00 +0200</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/chinesisch-folge-9-chinas-hauptstaedte.6444m.mp3" length="2142688" type="audio/mpeg" />
+            <itunes:duration>4:28</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/chinesisch-folge-9-chinas-hauptstaedte.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 8: Die Hauptstadt Peking</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>"Bejing" oder "Peking" - wie sollte man die chinesische Hauptstadt im Deutschen nennen? Wie setzen sich chinesische Städtenamen zusammen, und was bedeuten sie?</description>
+            <pubDate>Thu, 11 Oct 2007 07:20:00 +0200</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/chinesisch-folge-8-die-hauptstadt-peking.6444m.mp3" length="2047766" type="audio/mpeg" />
+            <itunes:duration>4:16</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/chinesisch-folge-8-die-hauptstadt-peking.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 7: "Du" oder "Sie"?</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>"Ni" oder "nin" - das ist im Chinesischen eine andere Frage als die nach dem "Du" oder "Sie" im Deutschen. Und was haben Chinesisch und Pidgin-English gemeinsam?</description>
+            <pubDate>Wed, 10 Oct 2007 07:20:00 +0200</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/chinesisch-folge-7-du-oder-sie.6444m.mp3" length="1769387" type="audio/mpeg" />
+            <itunes:duration>3:41</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/chinesisch-folge-7-du-oder-sie.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 6: Anredeformen</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Familienstand, Beruf, Alter - all dies spielt eine Rolle, wenn man in China eine Frau ansprechen möchte. Welche Anrede ist passend - und welche sollte man als Ausländer auf keinen Fall verwenden?</description>
+            <pubDate>Tue, 09 Oct 2007 07:20:00 +0200</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/chinesisch-folge-6-anredeformen.6444m.mp3" length="1764371" type="audio/mpeg" />
+            <itunes:duration>3:40</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/chinesisch-folge-6-anredeformen.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 5: "Guten Tag! - Ich hoffe, dass es dir gut geht"</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Was muss man in China beachten, wenn man einen Chinesen begrüßen möchte? Und duzen sich die Chinesen alle?</description>
+            <pubDate>Mon, 08 Oct 2007 07:20:00 +0200</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/folge-5guten-tag-ich-hoffe-dass-es-dir-gut-geht.6444m.mp3" length="1664541" type="audio/mpeg" />
+            <itunes:duration>3:28</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/folge-5guten-tag-ich-hoffe-dass-es-dir-gut-geht.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 4: "Bitte halten Sie mal!"</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Was für Folgen es haben kann, wenn man sich im Chinesischen im "Ton" vergreift, zeigt der erfolglose Versuch eines Deutschen einen Taxifahrer zum Anhalten zu bewegen.</description>
+            <pubDate>Fri, 05 Oct 2007 07:20:00 +0200</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/folge-4-bitte-halten-sie-mal.6444m.mp3" length="1619984" type="audio/mpeg" />
+            <itunes:duration>3:22</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/folge-4-bitte-halten-sie-mal.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 3: Die chinesischen Tonverläufe Teil 2</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Mama, Hanf, Pferd, fluchen - so unterschiedlich können die Bedeutungen eines einzigen chinesischen Wortes in den verschiedenen Tönen sein. Sind da Missverständnisse nicht gleich vorprogrammiert?</description>
+            <pubDate>Thu, 04 Oct 2007 07:20:00 +0200</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/folge-3-die-chinesischen-tonverlaeufe-teil-2.6444m.mp3" length="2093351" type="audio/mpeg" />
+            <itunes:duration>4:22</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/folge-3-die-chinesischen-tonverlaeufe-teil-2.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 2: Die chinesischen Tonverläufe - Teil 1</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Chinesisch ist zwar strukturell eine einfache Sprache, doch die Aussprache hat durch die verschiedenen Töne ihre Tücken. Und was hat es eigentlich mit der chinesischen Hochsprache auf sich, einst als "Mandarin" bekannt?</description>
+            <pubDate>Tue, 02 Oct 2007 07:20:00 +0200</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/folge-2-die-chinesischen-tonverlaeufe-teil-1.6444m.mp3" length="1927009" type="audio/mpeg" />
+            <itunes:duration>4:01</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/folge-2-die-chinesischen-tonverlaeufe-teil-1.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+        <item>
+            <title>Folge 1: Warum Chinesisch lernen?</title>
+            <author></author>
+            <itunes:author></itunes:author>
+            <description>Chinesisch ist zwar strukturell eine einfache Sprache, doch die Aussprache hat durch die verschiedenen Töne ihre Tücken. Und was hat es eigentlich mit der chinesischen Hochsprache auf sich, einst als "Mandarin" bekannt?</description>
+            <pubDate>Mon, 01 Oct 2007 07:20:00 +0200</pubDate>
+            <enclosure url="http://mp3-download.swr.de/swr2/extra/china/podcast/folge-1-warum-chinesisch-lernen.6444m.mp3" length="2016425" type="audio/mpeg" />
+            <itunes:duration>4:12</itunes:duration>
+            <link>http://mp3-download.swr.de/swr2/extra/china/podcast/folge-1-warum-chinesisch-lernen.6444m.mp3</link>
+            <guid isPermaLink="false"></guid>
+        </item>
+    </channel>
+</rss>
